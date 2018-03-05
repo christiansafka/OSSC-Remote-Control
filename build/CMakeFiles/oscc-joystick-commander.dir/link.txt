@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/oscc-joystick-commander.dir/src/commander.c.o CMakeFiles/oscc-joystick-commander.dir/src/joystick.c.o CMakeFiles/oscc-joystick-commander.dir/src/main.c.o CMakeFiles/oscc-joystick-commander.dir/oscc/api/src/oscc.c.o  -o oscc-joystick-commander -rdynamic -lpthread -lSDL2 

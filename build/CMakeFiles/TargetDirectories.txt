@@ -1,0 +1,3 @@
+/home/rihards/oscc-joystick-commander_sent_from_guy/build/CMakeFiles/rebuild_cache.dir
+/home/rihards/oscc-joystick-commander_sent_from_guy/build/CMakeFiles/edit_cache.dir
+/home/rihards/oscc-joystick-commander_sent_from_guy/build/CMakeFiles/oscc-joystick-commander.dir
