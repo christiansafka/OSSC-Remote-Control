@@ -7,4 +7,4 @@ The original OSSC Joystick Demo can be found [here](https://github.com/PolySync/
 
 TO-DO: 
 - Catch SIGINT and clean up threads in UDP client
-
+- Dynamically adjust brake as well
